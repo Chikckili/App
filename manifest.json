@@ -2,7 +2,7 @@
   "name": "ValueRadar",
   "short_name": "ValueRadar",
   "description": "Monitor de value bets en tiempo real",
-  "start_url": "/App/",
+  "start_url": "/",
   "scope": "/App/",
   "display": "standalone",
   "orientation": "portrait",
